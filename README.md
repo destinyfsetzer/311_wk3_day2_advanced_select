@@ -69,7 +69,7 @@ HAVING tally > 10
   * Area code: 973
 
 3.
-  * first_name:Alaine
+  * first_name: Alaine
   * county: Orange
   * county total: 11
 
